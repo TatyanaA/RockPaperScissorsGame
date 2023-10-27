@@ -8,7 +8,7 @@ This is a fun command-line game that lets you play Rock, Paper, Scissors against
 
 3.Run the game
 
-4.Follow the on-screen instructions to choose your move (Rock, Paper, or Scissors).
+4.Follow the instructions to choose your move (Rock, Paper, or Scissors).
 
 5.The computer will randomly select its move.
 
