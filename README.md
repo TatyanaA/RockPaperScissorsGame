@@ -2,7 +2,7 @@
 
 This is a fun command-line game that lets you play Rock, Paper, Scissors against the computer. Test your luck and see if you can beat the machine!
 
-1.lone this repository to your local machine.
+1.Clone this repository to your local machine.
 
 2.Navigate to the project directory in your terminal.
 
